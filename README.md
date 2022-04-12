@@ -16,7 +16,7 @@ const CRX = {
 ```
 
 <p align="center">
-	<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=crxcrm&theme=midnight-purple&count_private=true&show_icons=true&layout=compact&langs_count=6">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crxcrm)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ### Feel free to contact me...
