@@ -1,27 +1,33 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Hi there
-
-![](https://komarev.com/ghpvc/?username=crxcrm&color=blueviolet)
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Hi there ![](https://komarev.com/ghpvc/?username=crxcrm&color=blueviolet)
 
 
 ### A little more about me...
 
-```js
-const CRX = {
-  bio: {
-    location: 'Spain',
-    nick: 'Carmen' || 'CRX',
-    studies: [ 'Industrial Engineering', 'Smart Industry', 'Robotics' ]
-  },
-  interests: [ 'Robotics', 'Machine Learning', 'Data Science', 'Music'],
-}
+```python
+class WhoAmI:
+ 	user = 'CRX'
+	location = 'Spain'
+	nick = ['Carmen', 'CRX']
+	studies = [ 'Industrial Engineering', 'Smart Industry', 'Robotics' ]
+	interests = [ 'Robotics', 'Machine Learning', 'Data Science', 'Music']
 ```
 <a href="https://github.com/anuraghazra/languages_show">
 <p align="center">
-  <img align="center" src="https://languages-show.vercel.app/api/top-langs/?username=crxcrm&langs_count=6&count_private=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=crxcrm&langs_count=6&count_private=true&theme=midnight-purple" />
 </a>
 
+<a href="https://github.com/anuraghazra/languages_show">
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crxcrm&langs_count=6&count_private=true&theme=midnight-purple" />
+</a>
 
-### Feel free to contact me...
+# Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+ 
+ # Technologies I Use
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  
+ 
+# Feel free to contact me...
 
 <p align="center">
 	<a href="https://github.com/crxcrm" target="_blank">
