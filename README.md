@@ -26,7 +26,7 @@ const CRX = {
 		<img alt="github" src="https://img.icons8.com/clouds/100/000000/github.png" style="padding: 5px;" width="10%">
 	</a>
 	<a href="https://www.linkedin.com/in/maria-del-carmen-rubiales-mena/" target="_blank">
-		<img alt="linkedin" src="https://icons8.com/icon/WyB8Jtm9PZoo/linkedin" style="padding: 5px;" width="10%">
+		<img alt="linkedin" src="https://img.icons8.com/stickers/344/linkedin.png" style="padding: 5px;" width="10%">
 	</a>
 	<a href="mailto:carmenrubialesmena@gmail.com" target="_blank">
 		<img alt="gmail" src="https://img.icons8.com/stickers/344/gmail-login.png" style="padding: 5px;" width="10%">
