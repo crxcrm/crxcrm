@@ -1,46 +1,24 @@
 ### Hi there 👋
 
-<!--
-**crxcrm/crxcrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Hi there
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=7Rocky/7Rocky)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=crxcrm/crxcrm)
 
 ### A little more about me...
 
 ```js
-const rocky = {
+const CRX = {
   bio: {
-    location: 'Madrid, Spain',
-    nick: 'Rocky' || '7Rocky',
-    studies: [ 'Telecommunications Engineering', 'Cybersecurity', 'Mathematics' ]
+    location: 'Spain',
+    nick: 'Carmen' || 'CRM',
+    studies: [ 'Industrial Engineering', 'Smart Industry', 'Robotics' ]
   },
-  interests: [ 'Cybersecurity', 'CTF', 'Web development', 'Computer Science', 'Cloud Computing' ],
-  skills: {
-    databases: [ 'MySQL', 'Cloudant', 'MongoDB', 'Redis' ],
-    frameworks: [ 'Angular' ],
-    languages: [ 'JavaScript', 'Java', 'Python', 'Go', 'Bash', 'C', 'Ruby', 'Matlab', 'R' ],
-    libraries: [ 'Express', 'Flask', 'jQuery', 'Bootstrap' ],
-    others: [ 'Docker', 'Kubernetes', 'LaTeX', 'Kali Linux', 'Raspberry Pi', 'Arduino' ]
-  }
+  interests: [ 'Robotics', 'Machine Learning', 'Data Science'],
 }
 ```
 
 <p align="center">
-	<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=crxcrm&theme=dark&count_private=false&show_icons=true&layout=compact&langs_count=6">
+	<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=crxcrm&theme=dark&count_private=true&show_icons=true&layout=compact&langs_count=6">
 </p>
 
 ### Feel free to contact me...
