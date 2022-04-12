@@ -8,7 +8,7 @@
 const CRX = {
   bio: {
     location: 'Spain',
-    nick: 'Carmen' || 'CRM',
+    nick: 'Carmen' || 'CRX',
     studies: [ 'Industrial Engineering', 'Smart Industry', 'Robotics' ]
   },
   interests: [ 'Robotics', 'Machine Learning', 'Data Science', 'Music'],
