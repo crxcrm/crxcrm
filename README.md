@@ -11,11 +11,13 @@ const CRX = {
     nick: 'Carmen' || 'CRM',
     studies: [ 'Industrial Engineering', 'Smart Industry', 'Robotics' ]
   },
-  interests: [ 'Robotics', 'Machine Learning', 'Data Science'],
+  interests: [ 'Robotics', 'Machine Learning', 'Data Science', 'Music'],
 }
 ```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&theme=midnight-purple&include_all_commits=true)](https://github.com/crxcrm/github-readme-stats)
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crxcrm&layout=compact&count_private=true&theme=midnight-purple&include_all_commits=true" />
+</a>
 
 
 ### Feel free to contact me...
