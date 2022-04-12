@@ -15,7 +15,7 @@ const CRX = {
 }
 ```
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crxcrm&layout=compact&count_private=true&theme=midnight-purple&include_all_commits=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crxcrm&count_private=true&theme=midnight-purple&include_all_commits=true&show_icons=true&langs_count=6" />
 </a>
 
 
