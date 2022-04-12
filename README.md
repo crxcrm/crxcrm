@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Hi there
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=crxcrm.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=crxcrm)
 
 ### A little more about me...
 
