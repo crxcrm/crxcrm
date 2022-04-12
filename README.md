@@ -17,7 +17,7 @@ const CRX = {
 
 <p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crxcrm)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 ### Feel free to contact me...
 
