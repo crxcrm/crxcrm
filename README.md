@@ -1,6 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Hi there
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=crxcrm/crxcrm)
+![](https://komarev.com/ghpvc/?username=crxcrm&color=blueviolet)
+
 
 ### A little more about me...
 
