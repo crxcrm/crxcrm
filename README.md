@@ -22,10 +22,10 @@ class WhoAmI:
 </a>
 
 # Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+<img src = 'https://github.com/crxcrm/languages_show/blob/50a6a56212ba915e46e4d8ad1e554f28acb8680f/fotos/C.png' width='30'/> <img src = 'https://github.com/crxcrm/languages_show/blob/50a6a56212ba915e46e4d8ad1e554f28acb8680f/fotos/Cpp.png' width='30'/> <img src = 'https://github.com/crxcrm/languages_show/blob/50a6a56212ba915e46e4d8ad1e554f28acb8680f/fotos/python.png' height='30'/>  <img src = 'https://github.com/crxcrm/languages_show/blob/50a6a56212ba915e46e4d8ad1e554f28acb8680f/fotos/mysql.png' height='30'/> <img src = 'https://github.com/crxcrm/languages_show/blob/50a6a56212ba915e46e4d8ad1e554f28acb8680f/fotos/R.png' height='30'/> 
  
  # Technologies I Use
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  
+ <img src = 'https://github.com/crxcrm/languages_show/blob/50a6a56212ba915e46e4d8ad1e554f28acb8680f/fotos/datagrip.png' width='30'/>  
  
 # Feel free to contact me...
 
