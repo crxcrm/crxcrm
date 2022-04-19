@@ -8,8 +8,8 @@ class WhoAmI:
  	user = 'CRX'
 	location = 'Spain'
 	nick = ['Carmen', 'CRX']
-	studies = [ 'Industrial Engineering', 'Smart Industry', 'Robotics' ]
-	interests = [ 'Robotics', 'Machine Learning', 'Data Science', 'Music']
+	studies = ['Industrial Engineering', 'Smart Industry', 'Robotics']
+	interests = ['Robotics', 'Machine Learning', 'Data Science', 'Music']
 ```
 <a href="https://github.com/anuraghazra/languages_show">
 <p align="center">
@@ -25,7 +25,7 @@ class WhoAmI:
 <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/C.png' width='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/Cpp.png' width='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/python.png' height='30'/>  <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/mysql.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/R.png' height='30'/> 
  
  # Technologies I Use
- <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/datagrip.png' width='30'/>  <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/jupyter.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/matlab.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/VSC.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/rstudio.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/arduino.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/tiaportal.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/mplab.png' height='30'/> 
+ <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/datagrip.png' width='30'/>  <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/jupyter.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/matlab.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/VSC.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/54010df89ea21afd527070267c90c5dc71910e9d/rstudio.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/arduino.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/84e15088e45a20a97499ec079257ca6b8e57a4e8/tiaportal.jpeg' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/139bab6623b77e14eb3565a901ba4ee5bba70eae/mplab.jpeg' height='30'/> 
  
 # Feel free to contact me...
 
