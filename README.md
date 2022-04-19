@@ -25,7 +25,7 @@ class WhoAmI:
 <img src = 'https://github.com/crxcrm/languages_show/blob/50a6a56212ba915e46e4d8ad1e554f28acb8680f/fotos/C.png' width='30'/> <img src = 'https://github.com/crxcrm/languages_show/blob/50a6a56212ba915e46e4d8ad1e554f28acb8680f/fotos/Cpp.png' width='30'/> <img src = 'https://github.com/crxcrm/languages_show/blob/50a6a56212ba915e46e4d8ad1e554f28acb8680f/fotos/python.png' height='30'/>  <img src = 'https://github.com/crxcrm/languages_show/blob/50a6a56212ba915e46e4d8ad1e554f28acb8680f/fotos/mysql.png' height='30'/> <img src = 'https://github.com/crxcrm/languages_show/blob/50a6a56212ba915e46e4d8ad1e554f28acb8680f/fotos/R.png' height='30'/> 
  
  # Technologies I Use
- <img src = 'https://github.com/crxcrm/languages_show/blob/50a6a56212ba915e46e4d8ad1e554f28acb8680f/fotos/datagrip.png' width='30'/>  
+ <img src = 'https://github.com/crxcrm/languages_show/blob/6f0f5dff36e073b31b1c5ed342ffac5cbcb38368/fotos/datagrip.png' width='30'/>  <img src = 'https://github.com/crxcrm/languages_show/blob/6f0f5dff36e073b31b1c5ed342ffac5cbcb38368/fotos/jupyter.png' height='30'/> <img src = 'https://github.com/crxcrm/languages_show/blob/6f0f5dff36e073b31b1c5ed342ffac5cbcb38368/fotos/matlab.png' height='30'/> <img src = 'https://github.com/crxcrm/languages_show/blob/6f0f5dff36e073b31b1c5ed342ffac5cbcb38368/fotos/VSC.png' height='30'/> <img src = 'https://github.com/crxcrm/languages_show/blob/6f0f5dff36e073b31b1c5ed342ffac5cbcb38368/fotos/rstudio.png' height='30'/> 
  
 # Feel free to contact me...
 
