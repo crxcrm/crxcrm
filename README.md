@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Hi there ![](https://komarev.com/ghpvc/?username=crxcrm&color=blueviolet)
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Hi there <img src="https://komarev.com/ghpvc/?username=crxcrm&color=blueviolet" align="right" style="margin-top: 10px !important;">
 
 
 ### A little more about me...
