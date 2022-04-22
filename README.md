@@ -13,7 +13,7 @@ class WhoAmI:
 ```
 <a href="https://github.com/anuraghazra/languages_show">
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=crxcrm&langs_count=6&count_private=true&theme=midnight-purple" />
+  <img align="center" src="https://languages-show-no40nfegu-crxcrm.vercel.app/api/?username=crxcrm&langs_count=6&count_private=true&theme=midnight-purple" />
 </a>
 
 <a href="https://github.com/anuraghazra/languages_show">
