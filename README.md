@@ -13,12 +13,12 @@ class WhoAmI:
 ```
 <a href="https://github.com/crxcrm">
 <p align="center">
-  <img align="center" src="https://languages-show-no40nfegu-crxcrm.vercel.app/api/?username=crxcrm&count_private=true&theme=midnight-purple" />
+  <img align="center" src="https://languages-show.vercel.app/api/?username=crxcrm&count_private=true&theme=midnight-purple" />
 </a>
 
 <a href="https://github.com/crxcrm">
 <p align="center">
-  <img align="center" src="https://languages-show-no40nfegu-crxcrm.vercel.app/api/top-langs/?username=crxcrm&layout=compact&langs_count=6&count_private=true&theme=midnight-purple&hide=javascript,shell" />
+  <img align="center" src="https://languages-show.vercel.app/api/top-langs/?username=crxcrm&layout=compact&langs_count=6&count_private=true&theme=midnight-purple&hide=javascript,shell" />
 </a>
 
 # Programming Languages
