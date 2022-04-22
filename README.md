@@ -11,12 +11,12 @@ class WhoAmI:
 	studies = ['Industrial Engineering', 'Smart Industry', 'Robotics']
 	interests = ['Robotics', 'Machine Learning', 'Data Science', 'Music']
 ```
-<a href="https://github.com/anuraghazra/languages_show">
+<a href="https://github.com/crxcrm/languages_show">
 <p align="center">
   <img align="center" src="https://languages-show-no40nfegu-crxcrm.vercel.app/api/?username=crxcrm&count_private=true&theme=midnight-purple" />
 </a>
 
-<a href="https://github.com/anuraghazra/languages_show">
+<a href="https://github.com/crxcrm/languages_show">
 <p align="center">
   <img align="center" src="https://languages-show-no40nfegu-crxcrm.vercel.app/api/top-langs/?username=crxcrm&layout=compact&langs_count=6&count_private=true&theme=midnight-purple&hide=javascript,shell" />
 </a>
