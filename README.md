@@ -28,7 +28,12 @@ class WhoAmI:
 <p align="center"> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/datagrip.png' width='30'/>  <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/jupyter.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/matlab.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/VSC.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/54010df89ea21afd527070267c90c5dc71910e9d/rstudio.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/bab3c8c676345dcf74b30daeb4c8153bd12dc28e/arduino.png' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/84e15088e45a20a97499ec079257ca6b8e57a4e8/tiaportal.jpeg' height='30'/> <img src = 'https://github.com/crxcrm/crxcrm/blob/139bab6623b77e14eb3565a901ba4ee5bba70eae/mplab.jpeg' height='30'/>  <img src = 'https://github.com/crxcrm/crxcrm/blob/40a4db2f52ae629d3cf4044cfb16ac365e7ae4de/raspberry.svg' height='30'/> 
  
  
-
+# Others things that I do
+<p align="center" >
+    <a href="https://www.codewars.com/users/crxcrm/stats">
+      <img src="https://github.r2v.ch/codewars?user=crxcrm&name=true&top_languages=true&stroke=rgb(255,255,255)&theme=purple_dark" />
+</a>
+</p>    
  
 # Feel free to contact me...
 
