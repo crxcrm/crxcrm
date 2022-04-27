@@ -18,7 +18,7 @@ class WhoAmI:
 
 <a href="https://github.com/crxcrm">
 <p align="center">
-  <img align="center" src="https://languages-show.vercel.app/api/top-langs/?username=crxcrm&layout=compact&langs_count=6&count_private=true&theme=midnight-purple&hide=javascript,shell" />
+  <img align="center" src="https://languages-show.vercel.app/api/top-langs/?username=crxcrm&layout=compact&langs_count=6&count_private=true&theme=midnight-purple&exclude_repo=languages_show,codewars_readme_stats" />
 </a>
 
 # Programming Languages
