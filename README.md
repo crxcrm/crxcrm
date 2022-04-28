@@ -31,7 +31,7 @@ class WhoAmI:
 # Other things that I do
 <p align="center" >
     <a href="https://www.codewars.com/users/crxcrm/stats">
-      <img src="https://github.r2v.ch/codewars?user=crxcrm&name=true&top_languages=true&stroke=rgb(255,255,255)&theme=purple_dark" />
+      <img src="https://github.r2v.ch/codewars?user=crxcrm&name=true&top_languages=true&stroke=rgb(255,255,255)&theme=midnight_purple" />
 </a>
 </p>    
  
