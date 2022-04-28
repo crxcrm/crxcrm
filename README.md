@@ -5,11 +5,22 @@
 
 ```python
 class WhoAmI:
- 	user = 'CRX'
-	location = 'Spain'
-	nick = ['Carmen', 'CRX']
-	studies = ['Industrial Engineering', 'Smart Industry', 'Robotics']
-	interests = ['Robotics', 'Machine Learning', 'Data Science', 'Music']
+	def __init__(self):
+ 		self.user = "CRX"
+		self.location = "Spain"
+		self.nick = ["Carmen", "CRX"]
+		self.studies = ["Industrial Engineering", "Smart Industry", "Robotics"]
+		self.interests = ["Robotics", "Machine Learning", "Data Science", "Music"]
+	
+	def Education():
+		return "Universidad Pontificia Comillas"
+
+def main():
+	me = WhoIAm()
+	me.Education()
+
+if __name__ == "__main__":
+    main()
 ```
 <a href="https://github.com/crxcrm">
 <p align="center">
