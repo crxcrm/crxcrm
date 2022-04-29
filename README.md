@@ -16,8 +16,7 @@ class WhoAmI:
 		return "Universidad Pontificia Comillas"
 
 def main():
-	me = WhoIAm()
-	me.Education()
+	me = WhoAmI()
 
 if __name__ == "__main__":
     main()
