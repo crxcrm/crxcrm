@@ -10,7 +10,7 @@ class WhoAmI:
 		self.location = "Spain"
 		self.nick = ["Carmen", "CRX"]
 		self.studies = ["Industrial Engineering", "Smart Industry", "Robotics"]
-		self.interests = ["Robotics", "Machine Learning", "Data Science", "Music"]
+		self.interests = ["Robotics", "Machine Learning", "Data Science", "Music", "Reading"]
 	
 	def Education():
 		return "Universidad Pontificia Comillas"
